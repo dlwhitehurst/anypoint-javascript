@@ -18,8 +18,8 @@ const clientAppPostPart2 = '","description": "Client API Application", "url":"ht
 const clientAppPostPart3 = '/v1"}';
 
 module.exports = {
-    credentials,
-    clientAppPostPart1,
-    clientAppPostPart2,
-    clientAppPostPart3
-}
+  credentials,
+  clientAppPostPart1,
+  clientAppPostPart2,
+  clientAppPostPart3,
+};
