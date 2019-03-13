@@ -24,8 +24,10 @@
     "test": "jest"
   },
   "dependencies": {
+    "@types/console-stamp": "^0.2.32",
     "aes-js": "^3.1.2",
     "aes256": "^1.0.4",
+    "console": "^0.7.2",
     "console-stamp": "^0.2.7",
     "minimist": "^1.2.0",
     "node-fetch": "^2.3.0",
