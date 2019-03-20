@@ -26,7 +26,7 @@ Here's a list of the current functions:
 - createApiManagerInstance
 
 
-May later add strategies for various operations.
+DLW - May later add strategies for various operations.
 
 
 
